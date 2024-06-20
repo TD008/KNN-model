@@ -1,5 +1,5 @@
 # KNN-model
-Some of my experimentation with the implementing KNN with pytorch and also maybe from scratch
+Pytorch implementation of KNN
 
 ## Docker
 - I wasn't keen on installing Anaconda directly, but I wanted to try it out along
